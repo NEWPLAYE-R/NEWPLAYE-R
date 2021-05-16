@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NEWPLAYE-R
 - 👀 I’m interested in html/css
-- 🌱 I’m currently learning html
+- 🌱 I’m currently learning html/css
 - 💞️ I’m looking to collaborate on "not ready:)"
 - 📫 How to reach me zezooppt@gmail.com
 
